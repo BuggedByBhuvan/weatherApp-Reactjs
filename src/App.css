@@ -639,12 +639,12 @@ div#txt {
   border: none;
   padding: 10px 11px;
   background: transparent;
-  color: white;
+  color: rgb(192, 61, 61);
   border-bottom: 1px solid;
   font-size: 16px;
 }
 .search-box .search-bar::placeholder {
-  color: white;
+  color: rgb(40, 195, 22);
 }
 .search-bar:focus {
   outline: none;
